@@ -19,6 +19,6 @@ The project involves the following steps:
 # Video Demo
 Click dashboard to play video
 
-[![Dashboard in action](https://github.com/nayan1306/PowerBI_Sales_Report/blob/main/Screenshot%202023-07-04%20201625.png)](https://github.com/nayan1306/PowerBI_Sales_Report/blob/main/Power%20BI%20Sales%20Report.mp4)
+[![Dashboard in action](https://github.com/nayan1306/PowerBI_Sales_Report/blob/main/Screenshot%202023-07-04%20201625.png)](https://drive.google.com/file/d/1CMa-_PQxMkNF1ErF8QLdWLYnzEJLlF9k/view?usp=drive_link)
 
 
